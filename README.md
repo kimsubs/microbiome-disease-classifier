@@ -21,7 +21,7 @@ Built with Python tools and focused on clear, reproducible, and interpretable an
 ├── notebooks/            # Jupyter notebooks (EDA, modeling, etc.)
 ├── results/              # Output figures, model metrics
 ├── requirements.txt      # Python dependencies
-└── README.md             # Project overview```
+└── README.md             # Project overview
 ```
 ---
 
