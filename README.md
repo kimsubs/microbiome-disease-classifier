@@ -1,6 +1,7 @@
 # Microbiome Machine Learning Classifier
 
-Classify disease status based on human gut microbiome composition using public 16S rRNA abundance data. Built with Python tools and focused on clear, reproducible, and interpretable analysis.
+Classify disease status based on human gut microbiome composition using public 16S rRNA abundance data. 
+Built with Python tools and focused on clear, reproducible, and interpretable analysis.
 
 ---
 
@@ -15,6 +16,7 @@ Classify disease status based on human gut microbiome composition using public 1
 ---
 
 ## Project Structure
+```bash
 ├── data/                 # Raw input data (abundance + metadata)
 ├── notebooks/            # Jupyter notebooks (EDA, modeling, etc.)
 ├── results/              # Output figures, model metrics
