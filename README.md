@@ -16,14 +16,13 @@ Built with Python tools and focused on clear, reproducible, and interpretable an
 ---
 
 ## Project Structure
-```bash
+```
 ├── data/                 # Raw input data (abundance + metadata)
 ├── notebooks/            # Jupyter notebooks (EDA, modeling, etc.)
 ├── results/              # Output figures, model metrics
 ├── requirements.txt      # Python dependencies
-└── README.md             # Project overview
-
-
+└── README.md             # Project overview```
+```
 ---
 
 ## Dataset
