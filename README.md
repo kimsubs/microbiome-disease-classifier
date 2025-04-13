@@ -17,7 +17,7 @@ Built with Python tools and focused on clear, reproducible, and interpretable an
 
 ## Project Structure
 ```
-├── data/                 # Raw input data (abundance + metadata)
+├── data/                 # Raw and processed data
 ├── notebooks/            # Jupyter notebooks (EDA, modeling, etc.)
 ├── results/              # Output figures, model metrics
 ├── requirements.txt      # Python dependencies
